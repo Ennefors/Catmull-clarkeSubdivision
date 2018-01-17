@@ -1,0 +1,1 @@
+/usr/bin/c++  -Os -DNDEBUG   CMakeFiles/Labb3.dir/main.cpp.o CMakeFiles/Labb3.dir/halfEdgeMesh.cpp.o CMakeFiles/Labb3.dir/mem_block.cpp.o CMakeFiles/Labb3.dir/memHalfEdgeMesh.cpp.o  -o Labb3 

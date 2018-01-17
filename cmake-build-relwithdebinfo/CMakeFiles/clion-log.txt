@@ -1,0 +1,4 @@
+/home/bill/Desktop/clion-2017.2.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -G "CodeBlocks - Unix Makefiles" /home/bill/wilenn-5/S0017D/Labb3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bill/wilenn-5/S0017D/Labb3/cmake-build-relwithdebinfo

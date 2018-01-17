@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bill/wilenn-5/S0017D/Labb3",
+  "command": "/usr/bin/c++      -std=gnu++11 -o CMakeFiles/Labb3.dir/main.cpp.o -c /home/bill/wilenn-5/S0017D/Labb3/main.cpp",
+  "file": "/home/bill/wilenn-5/S0017D/Labb3/main.cpp"
+},
+{
+  "directory": "/home/bill/wilenn-5/S0017D/Labb3",
+  "command": "/usr/bin/c++      -std=gnu++11 -o CMakeFiles/Labb3.dir/usr/include/halfEdgeMesh.cpp.o -c /usr/include/halfEdgeMesh.cpp",
+  "file": "/usr/include/halfEdgeMesh.cpp"
+}
+]

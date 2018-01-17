@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bill/wilenn-5/S0017D/Labb3/halfEdgeMesh.cpp
+halfEdgeMeshO.h
+/home/bill/wilenn-5/S0017D/Labb3/halfEdgeMeshO.h
+chrono
+-
+
+/home/bill/wilenn-5/S0017D/Labb3/halfEdgeMesh.h
+map
+-
+GL/glut.h
+-
+tdMathLibNew.h
+/home/bill/wilenn-5/S0017D/Labb3/tdMathLibNew.h
+sstream
+-
+fstream
+-
+vector
+-
+string.h
+-
+
+/home/bill/wilenn-5/S0017D/Labb3/main.cpp
+iostream
+-
+halfEdgeMesh.h
+/home/bill/wilenn-5/S0017D/Labb3/halfEdgeMesh.h
+
+/home/bill/wilenn-5/S0017D/Labb3/tdMathLibNew.h
+iostream
+-
+sstream
+-
+cmath
+-
+
